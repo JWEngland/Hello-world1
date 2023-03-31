@@ -13,3 +13,6 @@ This is an example of a GitHub repository.
 Test - I guess it is incredible? Coding! 
 
 Second time, even better
+
+This IS so awesome. 
+Additional changes too! 
